@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <package>
-  <name>FlowingMessage</name>
+  <name>ImageMessage</name>
   <version>0.0.0</version>
-  <description>The FlowingMessage package</description>
+  <description>The ImageMessage package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="yota@todo.todo">yota</maintainer>
+  <maintainer email="s1426072cm@s.chibakoudai.jp">yotaseki</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>GNU GPL ver3.0</license>
 
 
   <!-- Url tags are optional, but mutiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/FlowingMessage</url> -->
+  <!-- <url type="website">http://wiki.ros.org/ImageMessage</url> -->
 
 
   <!-- Author tags are optional, mutiple are allowed, one per tag -->
