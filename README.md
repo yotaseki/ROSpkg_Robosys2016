@@ -2,12 +2,12 @@
 
 # ディレクトリ構成
 
-src   ----mypkg          ... 授業で扱ったcount.py等
-       |
-        --ImageMessage   ... 画像に"Robot System 2016"を描画する
+    src   ----mypkg          ... 授業で扱ったcount.py等  
+           |  
+            --ImageMessage   ... 画像に"Robot System 2016"を描画する  
         
 # 要求される他のパッケージ
-cv_camera
+cv_camera 
 mjpeg_server
 
 # 行ったデモ
